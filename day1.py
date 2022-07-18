@@ -9,4 +9,3 @@ with open('day1_input.txt') as f:
         previous = tmp
 
 print(count)
-f.close()

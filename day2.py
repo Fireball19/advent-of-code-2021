@@ -13,4 +13,3 @@ with open('day2_input.txt') as f:
             depth += value
 
 print(horizontal * depth)
-f.close()
